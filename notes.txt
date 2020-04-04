@@ -1,0 +1,154 @@
+spring boot -> REST API -> 
+
+
+web -> configuration -> zero config.
+	REST API support ->annotation -> json 
+eclipse->android -> android studio 
+
+eclipse  
+	STS spring tool suite 
+
+
+file -> new -> other -> spring starter project  
+ 
+
+web
+	dep core context bean webmvc | spring jdbc | dep 
+	boot -> starter -> 
+
+
+boot --> WEB   | REST API 
+-----------------------------------------------
+
+server web - database -->
+
+	functionality - database --> data ---> user ->API 
+
+Goolge server --> gmail --> signup => email | password 
+	
+
+abc.com | singup => login-> google user --> email | password => true | false 
+login --> error --> Login With Goolge --> oAuth --> 
+
+
+google --> url --> site--> email |password --> xyz URL --> response --> true | false 
+API --> server -> data access -> url -> API -> rules --> REST rule -> REST API 
+
+SOAP RUle -> SOAP api --> 
+
+REST  | SOAP =>  full name 
+
+REST VS SOAP 
+
+------------------------------------------------------------------------
+NEW -> 			POST
+DESTROY ->       	DELETE 
+view | single  --> 	GET 
+view | multiple --> 	GET 
+update |   -->    	PUT
+
+Singup.jsp 
+		form method="post" 
+
+list 
+
+Delete | Edit => link => method => GET 
+
+---------------------------------------------------
+REST api 
+CRUD 
+
+URL	METHOD      action  
+
+\user    POST        add user | new user | insert 
+\user    PUT         update user | update 
+\user    GET         view user | single | select id 
+\users   GET         view users | multi | select *  
+\user    DELETE      delete user | delete * 
+---------------------------------------------------
+SOAP api 
+
+---------------------------------------------------
+XML  | JSON 
+
+user: 12  
+
+
+{
+	id:12,
+	firstName:admin,
+	lastName:admin 
+}
+
+mobile app | web app angular jsp | html 
+
+API -> json response 
+
+
+
+-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
