@@ -16,6 +16,8 @@ import com.com.bean.ResponseBean;
 import com.com.bean.UserBean;
 import com.com.dao.UserDao;
 
+//this is comment
+
 @RestController
 public class UserController {
 	// inject dao for usercontroller
